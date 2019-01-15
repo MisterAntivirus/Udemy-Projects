@@ -1,0 +1,10 @@
+This is the very first project in the course. It is about 20% of the way in.
+The Pig Game HTML document and StyleSheet for this project were created by the instructor of the course, Jonas.
+I followed along with the video to create the JavaScript code that makes it work.
+My script does not exactly match the script from the video. I think Jonas had plagarism in mind when creating the course.
+The script from the video and course files only work for one round of the game, then it breaks. I fixed it on my own.
+I also went back and added some looping background music to the HTML and changed the style to my liking in the StyleSheet.
+This was my first time linking JavaScript to an HTML document and manipulating the DOM instead of just learning about it.
+Up until this project, I had no experience implementing JavaScript; only writing and reading it.
+I learned some new things and gained some confidence in my abilities. Hopefully I can keep this momentum going.
+I plan to make future changes to practice any new tricks I am intrested in.
